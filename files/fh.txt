@@ -1,0 +1,6 @@
+f1 = open("filepractice.py","w")
+r = write("this is a test fh file")
+print(r)
+f1.close
+
+

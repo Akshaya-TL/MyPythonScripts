@@ -1,0 +1,3 @@
+scp -r hostname:/the/source/folder . 
+scp -r csa0531@etude.talentsprint.com: ./practice
+will copy folder to where you currently are via ssh
